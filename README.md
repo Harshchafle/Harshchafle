@@ -1,4 +1,4 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F14696403-GitHub-Octocat&psig=AOvVaw34KoyTzh3KMS1r2UhF2WOX&ust=1710608469280000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNC7uarf9oQDFQAAAAAdAAAAABAE)
+![logo](https://github.com/Harshchafle/Harshchafle/blob/main/github%20bannner%20photo.png)
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
