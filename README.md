@@ -34,7 +34,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Harshchafle&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😏![Your Stats]
-(https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?Harshchafle=Harshchafle&show_icons=true&theme=radical)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
