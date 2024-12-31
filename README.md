@@ -1,42 +1,53 @@
+[![Alt text]
 
-# Hi, I'm Harsh Chafle! 👋
+<h1 align="center">Hi, I'm Harsh Chafle! </h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pavlo_bondarenko_visitor_badge_simple&left_color=royalblue&right_color=black"  />
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/paltane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/paltane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/paltane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
-## 🛠️ Languages and Tools
-Here's a glimpse into the technologies I enjoy working with:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git, github, java, js, c, py, linux, sql, eclipse" alt="Skills and tools"/>
+  </a>
+</p>
 
-- **Languages:** Java, JavaScript, Python, SQL
-- **Cloud:** 
-- **Web Development:** MongoDB, Express, React, Node.js, HTML, CSS
-- **Databases:** SQL, MongoDB
-- **Tools:** Git, Github, VS Code, IntelliJ IDEA, Eclipse, JupyterNoteBook, Anaconda, StackBlitz
 
-## 🌐 Let's Connect and Grow Together!
-Find me on these platforms:
+![GitHub Snake](https://raw.githubusercontent.com/Harshchafle/Harshchafle/a5001dd7874605dfa322c27011eaeeb1c04b45c2/github-snake-dark.svg)
 
-- [LinkedIn]([https://linkedin.com/Harsh Chafle](https://www.linkedin.com/in/harsh-chafle-641809292/))
-- [Instagram](ig)
 
-## ✨ Fun Facts
-- I love Solving LeetCode and  
-- I enjoy creating full fledged project.
-- In my free time, I used to sleep more.
-  
-## 🧑‍💻 About Me
-I'm a passionate software developer with a strong background in data-structures and algorithm and complexity analysis, full-stack web development. I have a keen interest in solving complex problems and building scalable solutions. When I'm not coding, you can find me engaged in physical activities .
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
+    <!-- Left Column: Metrics -->
+    <div style="flex: 1; max-width: 45%;">
+        <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="https://github.com/Harshchafle/Harshchafle/blob/main/github-metrics.svg">
+    </div>
 
-My journey in tech has led me to work with various cutting-edge technologies and tools that makes problems to solve with more ease. I’m always eager to learn new things and share my knowledge.
+
+  <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
+        <h3>🌐 Let's Connect and Grow Together!</h3>
+        <p>
+            <a href="https://www.linkedin.com/in/mrbondarenko/" target="_blank" style="text-decoration: none;">
+                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn">
+            </a>
+            </a>
+            <a href="https://www.instagram.com//" target="_blank" style="text-decoration: none;">
+                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram">
+            </a>
+        </p>
+        
+  <h3>✨ Fun Facts</h3>
+        <ul>
+            <li>I love Solving Leetcode</li>
+            <li>I’m on a journey to improve Future</li>
+            <li>In my free time, I sleep More.</li>
+        </ul>
+        
+  <h3>🧑‍💻 About Me</h3>
+        <p>
+            I'm a passionate software developer with a strong background in data-structure and algorithms and full-stack web development. 
+            I have a keen interest in solving complex problems and building scalable solutions with their complexity analysis.  
+        </p>
+        <p>
+            My journey in tech has led me to work with various cutting-edge technologies. I’m always eager to learn new things and share my knowledge.
+        </p>
+    </div>
+</div>
