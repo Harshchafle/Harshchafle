@@ -1,13 +1,11 @@
-[![Alt text]
-
-<h1 align="center">Hi, I'm Harsh Chafle! </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pavlo_bondarenko_visitor_badge_simple&left_color=royalblue&right_color=black"  />
+<h1 align="center">Hi👋, I'm Harsh Chafle! </h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=harshchafle_visitor_badge_simple&left_color=royalblue&right_color=black"  />
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git, github, java, js, c, py, linux, sql, eclipse" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=git,github,java,js,c,py,linux,sql,eclipse" alt="Skills and tools"/>
   </a>
 </p>
 
@@ -25,11 +23,11 @@
   <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
         <h3>🌐 Let's Connect and Grow Together!</h3>
         <p>
-            <a href="https://www.linkedin.com/in/mrbondarenko/" target="_blank" style="text-decoration: none;">
+            <a href="[https://www.linkedin.com/in/harsh-chafle-641809292/](https://www.linkedin.com/in/harsh-chafle-641809292/)" target="_blank" style="text-decoration: none;">
                 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn">
             </a>
             </a>
-            <a href="https://www.instagram.com//" target="_blank" style="text-decoration: none;">
+            <a href="https://www.instagram.com/harsh.chafle?igsh=OG9ud3p2cXFiNzE1/" target="_blank" style="text-decoration: none;">
                 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram">
             </a>
         </p>
