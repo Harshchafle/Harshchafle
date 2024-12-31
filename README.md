@@ -22,11 +22,6 @@
   />
 </picture>
 
-
-For **dark mode** support on github, use this [special syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#specifying-the-theme-an-image-is-shown-to) in your readme.
-
-
-
 # ---------------------------------------------------------------------------------------------------------------
 ## 🛠️ Languages and Tools
 Here's a glimpse into the technologies I enjoy working with:
