@@ -10,7 +10,7 @@
 </p>
 
 
-![GitHub Snake](https://raw.githubusercontent.com/Harshchafle/Harshchafle/a5001dd7874605dfa322c27011eaeeb1c04b45c2/github-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Harshchafle/Harshchafle/github-snake-dark.svg)
 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
