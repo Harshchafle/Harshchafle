@@ -5,8 +5,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,java,c,py,ubuntu,windows,bash,eclipse,anaconda,postman,pycharm,vscode,idea&perline=5" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,react,vite,express,mongodb,mysql,vercel&perline=5" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=git,github,java,c,py,ubuntu,windows,bash,anaconda,postman,pycharm,vscode,idea&perline=6" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,react,vite,express,mongodb,mysql,vercel&perline=6" alt="Skills and tools"/>
 
   </a>
 </p>
