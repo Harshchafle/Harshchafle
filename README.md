@@ -37,7 +37,7 @@
   
   [![LeetCode](https://img.shields.io/badge/LeetCode-chafleharsh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/chafleharsh/)
   [![CodeChef](https://img.shields.io/badge/CodeChef-harshchafle-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/harshchafle)
-  [![Codeforces](https://img.shields.io/badge/Codeforces-harshchafle-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/harshchafle)
+  [![Codeforces](https://img.shields.io/badge/Codeforces-harshchafle-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/chafleharsh)
   [![HackerRank](https://img.shields.io/badge/HackerRank-harshchafle-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/harshchafle)
 
 </div>
