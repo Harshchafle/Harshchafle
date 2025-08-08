@@ -3,7 +3,7 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=harshchafle&color=blueviolet&style=flat-square&label=Profile+Views)
-  ![Profile Views]("https://visitor-badge.laobi.icu/badge?page_id=harshchafle_visitor_badge_simple&left_color=royalblue&right_color=black")
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=harshchafle_visitor_badge_simple&left_color=royalblue&right_color=black">
   ![GitHub followers](https://img.shields.io/github/followers/harshchafle?logo=github&style=flat-square&color=blue)
   ![GitHub Stars](https://img.shields.io/github/stars/harshchafle?affiliations=OWNER&color=yellow&style=flat-square)
   
@@ -25,8 +25,8 @@
 - 💻 **Full-Stack Developer** with expertise in modern web technologies
 - 🧩 **Competitive Programmer** focused on Data Structures & Algorithms
 - 🎯 Currently improving my **problem-solving skills** and exploring **advanced algorithms**
-- 🌱 Learning **System Design** and **Advanced Data Structures**
-- 💬 Ask me about **DSA, Web Development, Problem Solving, or Software Architecture**
+- 🌱 Learning **Data Analytics** , **Advanced Data Structures** and **Machine Learning Algorithms** 
+- 💬 Ask me about **DSA, Web Development, Problem Solving, or Data Analytics**
 - ⚡ Fun fact: I'm on a journey to improve the future, one line of code at a time!
 
 ---
@@ -52,11 +52,24 @@
   
 </div>
 
+<!-- Comprehensive LeetCode Statistics -->
+<div align="center">
+
+| 📊 **Statistic** | 🔥 **Value** |
+|:---:|:---:|
+| **Total Solved** | ![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=green&label=&query=totalSolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fchafleharsh&logo=leetcode&logoColor=yellow) |
+| **Easy Solved** | ![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=green&label=&query=easySolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fchafleharsh&logo=leetcode&logoColor=yellow) |
+| **Medium Solved** | ![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=orange&label=&query=mediumSolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fchafleharsh&logo=leetcode&logoColor=yellow) |
+| **Hard Solved** | ![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=red&label=&query=hardSolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fchafleharsh&logo=leetcode&logoColor=yellow) |
+| **Contest Rating** | ![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=blue&label=&query=contestRating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fchafleharsh&logo=leetcode&logoColor=yellow) |
+| **Global Ranking** | ![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=purple&label=&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fchafleharsh&logo=leetcode&logoColor=yellow) |
+
+</div>
+
+<!-- Interactive LeetCode Calendar Heatmap -->
 <div align="center">
   
-  | 🔥 Streak | 📊 Problems Solved | 🎯 Contest Rating | 📈 Acceptance Rate |
-  |-----------|-------------------|-------------------|-------------------|
-  | 45+ Days  | 150+ Problems     | 1200+            | 85%              |
+  <img src="https://leetcode-calendar-api.vercel.app/api?username=chafleharsh&year=2024" alt="LeetCode Calendar" />
   
 </div>
 
