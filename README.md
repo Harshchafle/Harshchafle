@@ -22,7 +22,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔥 **Software Developer** passionate about building scalable solutions with complexity analysis
-- 💻 **Full-Stack Developer** with expertise in modern web technologies
+- 💻 **Basic WebD** with expertise in modern web technologies
 - 🧩 **Competitive Programmer** focused on Data Structures & Algorithms
 - 🎯 Currently improving my **problem-solving skills** and exploring **advanced algorithms**
 - 🌱 Learning **Data Analytics** , **Advanced Data Structures** and **Machine Learning Algorithms** 
@@ -112,6 +112,7 @@
   
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 </div>
 
@@ -120,6 +121,7 @@
   
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Cursor](https://img.shields.io/badge/Cursor-343541?style=for-the-badge&logo=cursor&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -168,16 +170,16 @@
 
 - 🧩 **Advanced DSA Problems** - Solving complex algorithmic challenges
 - 🌐 **Full-Stack Projects** - Building scalable web applications  
-- 📊 **System Design** - Learning scalable architecture patterns
+- 📊 **Machine Learning** - Learning scalable architecture patterns
 - 🚀 **Open Source Contributions** - Contributing to community projects
 
-### 📈 2024 Goals
+### 📈 2025 Goals
 
-- [ ] Solve 300+ LeetCode problems
-- [ ] Build 5 full-stack applications
-- [ ] Contribute to 3 open-source projects
-- [ ] Learn advanced system design concepts
-- [ ] Master React ecosystem and backend optimization
+- [ ] Solve 700+ LeetCode problems
+- [ ] Build 2 full-stack applications
+- [ ] Contribute to open-source projects
+- [ ] Learn advanced Machine Learning concepts
+- [ ] Master PowerBi, SQL, Python for Data Analytics
 
 ---
 
@@ -187,8 +189,8 @@
 
 | 🏆 Problem Solving & Algorithms | 🌐 Full-Stack Development |
 |:---:|:---:|
-| [![DSA Solutions](https://github-readme-stats.vercel.app/api/pin/?username=harshchafle&repo=DSA-Solutions&theme=tokyonight)](https://github.com/harshchafle/DSA-Solutions) | [![E-Commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=harshchafle&repo=ecommerce-platform&theme=tokyonight)](https://github.com/harshchafle/ecommerce-platform) |
-| [![LeetCode Solutions](https://github-readme-stats.vercel.app/api/pin/?username=harshchafle&repo=leetcode-solutions&theme=tokyonight)](https://github.com/harshchafle/leetcode-solutions) | [![Task Management System](https://github-readme-stats.vercel.app/api/pin/?username=harshchafle&repo=task-manager&theme=tokyonight)](https://github.com/harshchafle/task-manager) |
+| [![Project_1](https://github-readme-stats.vercel.app/api/pin/?username=harshchafle&repo=DSA-Solutions&theme=tokyonight)](https://github.com/harshchafle/DSA-Solutions) | [![Project_2](https://github-readme-stats.vercel.app/api/pin/?username=harshchafle&repo=ecommerce-platform&theme=tokyonight)](https://github.com/harshchafle/ecommerce-platform) |
+| [![Project_3](https://github-readme-stats.vercel.app/api/pin/?username=harshchafle&repo=leetcode-solutions&theme=tokyonight)](https://github.com/harshchafle/leetcode-solutions) | [![Project_4](https://github-readme-stats.vercel.app/api/pin/?username=harshchafle&repo=task-manager&theme=tokyonight)](https://github.com/harshchafle/task-manager) |
 
 </div>
 
@@ -197,15 +199,15 @@
 ## 📚 Skills & Expertise
 
 ### Core Competencies
-- **Data Structures & Algorithms**: Arrays, LinkedLists, Trees, Graphs, Dynamic Programming
+- **Data Structures & Algorithms**: Arrays, LinkedLists, Trees, Graphs, Dynamic Programming, Bit Manipulation, Stacks, PQ
 - **Problem Solving**: Complexity Analysis, Optimization Techniques, Pattern Recognition  
-- **Full-Stack Development**: Frontend-Backend Integration, RESTful APIs, Database Design
+- **Web Development**: Frontend-Backend Integration, Database Design
 - **Software Architecture**: Scalable Solutions, Code Quality, Design Patterns
 
 ### Problem Solving Approach
 1. 📝 **Understand** - Analyze problem requirements and constraints
 2. 🔍 **Plan** - Design optimal algorithm with complexity analysis
-3. ⚡ **Implement** - Write clean, efficient code
+3. ⚡ **Implement** - Solve first then Write clean, efficient code
 4. 🧪 **Test** - Validate with multiple test cases
 5. 🚀 **Optimize** - Improve performance and readability
 
