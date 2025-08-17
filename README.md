@@ -96,6 +96,7 @@
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![MIT App Inventor](https://img.shields.io/badge/MIT_App_Inventor-B62C2C?style=for-the-badge&logo=appinventor&logoColor=white)
 
 </div>
 
