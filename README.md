@@ -199,10 +199,8 @@
 
 | 🏆 Problem Solving & Algorithms | 🌐 Full-Stack Development |
 |:---:|:---:|
-| [![Project_1](https://github-readme-stats.vercel.app/api/pin/?username=harshchafle&repo=machine-learning-and-data-analytics-with-python&theme=tokyonight)](https://github.com/Harshchafle/Machine-Learning-and-Data-Analytics-with-python) 
-| [![Project_2](https://github-readme-stats.vercel.app/api/pin/?username=harshchafle&repo=ai-symptom-checker&theme=tokyonight)](https://github.com/Harshchafle/AI-symptom-checker) |
-| [![Project_3](https://github-readme-stats.vercel.app/api/pin/?username=harshchafle&repo=leetcode-solutions&theme=tokyonight)](https://github.com/harshchafle/leetcode-solutions) 
-| [![Project_4](https://github-readme-stats.vercel.app/api/pin/?username=harshchafle&repo=prashikshan&theme=tokyonight)](https://github.com/Harshchafle/prashikshan) |
+| [![Project_1](https://github-readme-stats.vercel.app/api/pin/?username=harshchafle&repo=machine-learning-and-data-analytics-with-python&theme=tokyonight)](https://github.com/Harshchafle/Machine-Learning-and-Data-Analytics-with-python) | [![Project_2](https://github-readme-stats.vercel.app/api/pin/?username=harshchafle&repo=ai-symptom-checker&theme=tokyonight)](https://github.com/Harshchafle/AI-symptom-checker) |
+| [![Project_3](https://github-readme-stats.vercel.app/api/pin/?username=harshchafle&repo=leetcode-solutions&theme=tokyonight)](https://github.com/harshchafle/leetcode-solutions) | [![Project_4](https://github-readme-stats.vercel.app/api/pin/?username=harshchafle&repo=prashikshan&theme=tokyonight)](https://github.com/Harshchafle/prashikshan) |
 
 </div>
 
