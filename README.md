@@ -183,12 +183,12 @@
 - 📊 **Machine Learning** - Learning scalable architecture patterns
 - 🚀 **Open Source Contributions** - Contributing to community projects
 
-### 📈 2025 Goals
+### 📈 2026 Goals
 
-- [ ] Solve 700+ LeetCode problems
-- [ ] Build 2 full-stack applications
+- [ ] Solve 1000+ LeetCode problems
+- [ ] Build 1 full-stack AIML applications
 - [ ] Contribute to open-source projects
-- [ ] Learn advanced Machine Learning concepts
+- [ ] Learn advanced Machine Learning, Deep Learning, Natural Language Processing concepts
 - [ ] Master PowerBi, SQL, Python for Data Analytics
 
 ---
@@ -248,11 +248,11 @@
 
 ## ✨ Fun Facts About Me
 
-- 🌟 I'm on a journey to improve the future, one algorithm at a time
-- 💤 In my free time, I optimize my sleep schedule (still working on that algorithm!)
-- 🧩 I believe every complex problem has an elegant solution waiting to be discovered
-- 📚 I treat debugging like detective work - every clue matters
-- 🚀 My code commits are like my coffee - frequent and essential
+- 1️⃣ I'm on a journey to improve the future, one algorithm at a time
+- 2️⃣ In my free time, I optimize my sleep schedule (still working on that algorithm!)
+- 3️⃣ I believe every complex problem has an elegant solution waiting to be discovered
+- 4️⃣ I treat debugging like detective work - every clue matters
+- 5️⃣ My code commits are like my coffee - frequent and essential
 
 
 ---
